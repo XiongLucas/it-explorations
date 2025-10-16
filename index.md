@@ -10,4 +10,4 @@ Projects:
 
 [Career Exploration Paper](https://1drv.ms/w/c/efa59e0ec46e1ffd/EUCiMSLKw1VCp0X0APi_dCgB_aitBvvOaFOpeUPdK7AosQ?e=mA9aFu) 
 
-[Google Looker Studio CO2 Emissions Chart](file:///C:/Users/lucax/OneDrive/Desktop/IT%20Exploration/CO2_Emissions_Chart.pdf) 
+[Google Looker Studio CO2 Emissions Chart](https://lookerstudio.google.com/reporting/3dda1207-e69c-43ac-947d-19e73e8caa16) 
